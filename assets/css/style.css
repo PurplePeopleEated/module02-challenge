@@ -54,6 +54,10 @@ main {
   justify-content: center;
   flex-wrap: wrap;
 }
+  
+.project-card {
+  padding: 1rem;
+}
 
 footer {
   background-color: #5B4373;
