@@ -10,8 +10,9 @@
   border-radius: 50%;
   width: 10rem;
   height: 10rem;
-  margin: 1rem;
-  
+  margin-top: 3rem;
+}
+
 .intro-text {
     font-family: 'Shadows Into Light', cursive;
     font-size: 4rem;
