@@ -67,7 +67,8 @@ main {
   font-weight: bold;
 }
 
-#about-me {
+#about-me,
+#contact-me {
   display: flex;
   flex-direction: column;
   align-items: center;
