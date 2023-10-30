@@ -19,3 +19,9 @@
   color: #FFDDCC;
   margin: 1rem;
 }
+
+.main-nav {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3rem;
+}
