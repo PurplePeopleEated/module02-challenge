@@ -38,6 +38,11 @@
   font-size: 1.25rem;
 }
 
+body {
+  position: relative;
+  min-height: 100%;
+}
+
 footer {
   background-color: #5B4373;
   display: flex;
