@@ -43,3 +43,8 @@ footer {
   display: flex;
   justify-content: center;
 }
+
+.footer-text {
+	color:#C091EF;
+	padding: 5rem;
+  }
